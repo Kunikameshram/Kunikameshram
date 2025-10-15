@@ -4,13 +4,6 @@
 I'm Kunika, a Software Development Engineer, with 5 years of work experience in developing software for various applications including **microservices, database management, distributed systems, and testing production software**.
 
 
-- 🏫 I'm currrently pursuing Masters in Computer Science at The University of Texas at Arlington.
-- 🔭 I’m currently working on [a comprehensive Blockchain implementation and Explorer in Python](https://github.com/Kunikameshram/Blockchain.git) that enhances transparency and demonstrates the potential of decentralized technology for secure data exchange.
-
-- 🌱 I’m currently learning **Observability & Monitoring of Distributed Systems**
-
-- 💬 Ask me about **GRPC, MapReduce, Algorithms, SQL/NoSQL Databases**
-
 #### Contact Information
 [![Linkedin: kunikameshram](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunikameshram/)
 [![LeetCode: KunikaMeshram](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/u/KunikaMeshram/)
